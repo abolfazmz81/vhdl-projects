@@ -13,4 +13,9 @@ This modules and projects were developed and tested using `Xilinx ISE Design Sui
 - Xilinx ISE Design Suite 14.7
 
 ## Modules
-
+- Full adders(behavioral):
+  - [All](./full_adders)
+  - [Case](./full_adders/fa_Case.vhd)
+  - [If](./full_adders/fa_if.vhd)
+  - [When](./full_adders/fa_When.vhd)
+  - [With](./full_adders/fa_WithSelect.vhd)
