@@ -19,3 +19,7 @@ This modules and projects were developed and tested using `Xilinx ISE Design Sui
   - [If](./full_adders/fa_if.vhd)
   - [When](./full_adders/fa_When.vhd)
   - [With](./full_adders/fa_WithSelect.vhd)
+- Four bit adder(structural):
+  - [All](.-four_bit_adder)
+  - [full adder](./four_bit_adder/full_adder.vhd)
+  - [four bit adder](./four_bit_adder/fourBit_adder.vhd)
