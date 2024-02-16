@@ -37,5 +37,11 @@ This modules and projects were developed and tested using `Xilinx ISE Design Sui
   - [Package](./self_package/mam_package.vhd)
   - [Full adder](./self_package/full_adder.vhd)
   - [Generic adder-subtractor](./self_package/generic_adder_subtractor.vhd)
+- Generic register(structural):
+  - [All](./generic_register)
+  - [D latch](./generic_register/dlatch.vhd)
+  - [D flip flop](./generic_register/dff.vhd)
+  - [Register](./generic_register/reg.vhd)
+  - [Generic register](./generic_register/nbit_register.vhd)
 
 
