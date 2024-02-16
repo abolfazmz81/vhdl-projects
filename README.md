@@ -23,3 +23,7 @@ This modules and projects were developed and tested using `Xilinx ISE Design Sui
   - [All](./four_bit_adder)
   - [full adder](./four_bit_adder/full_adder.vhd)
   - [four bit adder](./four_bit_adder/fourBit_adder.vhd)
+- generic full adder(structural):
+  - [All](./generic_full_adder)
+  - [full adder](./generic_full_adder/full_adder.vhd)
+  - [generic full adder](./generic_full_adder/generic_full_adder.vhd)
