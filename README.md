@@ -50,5 +50,8 @@ This modules and projects were developed and tested using `Xilinx ISE Design Sui
   - [D Flip Flop](./Shift_register/dff.vhd)
   - [Shift Register](./Shift_register/shift_reg.vhd)
   - [Test Bench](./Shift_register/shift_test.vhd)
-
+- FSM(behavioral):
+  - [All](./FSM)
+  - [Finite State Machine](./FSM/string_finder.vhd)
+  - [Test Bench](./FSM/a_fsm_tb.vhd)
 
