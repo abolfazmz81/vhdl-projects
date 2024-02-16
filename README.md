@@ -27,3 +27,8 @@ This modules and projects were developed and tested using `Xilinx ISE Design Sui
   - [All](./generic_full_adder)
   - [full adder](./generic_full_adder/full_adder.vhd)
   - [generic full adder](./generic_full_adder/generic_full_adder.vhd)
+- generic multiplexers(behavioral):
+  - [All](./generic_mux)
+  - [2-to-1 multiplexer](./generic_mux/mux21.vhd)
+  - [4-to-1 multiplexer](./generic_mux/mux41.vhd)
+  - [8-to-1 multiplexer](./generic_mux/mux81.vhd)
