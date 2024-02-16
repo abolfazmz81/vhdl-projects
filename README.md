@@ -21,29 +21,34 @@ This modules and projects were developed and tested using `Xilinx ISE Design Sui
   - [With](./full_adders/fa_WithSelect.vhd)
 - Four bit adder(structural):
   - [All](./four_bit_adder)
-  - [Full adder](./four_bit_adder/full_adder.vhd)
-  - [Four bit adder](./four_bit_adder/fourBit_adder.vhd)
+  - [Full Adder](./four_bit_adder/full_adder.vhd)
+  - [Four Bit Adder](./four_bit_adder/fourBit_adder.vhd)
 - Generic full adder(structural):
   - [All](./generic_full_adder)
-  - [Full adder](./generic_full_adder/full_adder.vhd)
-  - [Generic full adder](./generic_full_adder/generic_full_adder.vhd)
+  - [Full Adder](./generic_full_adder/full_adder.vhd)
+  - [Generic Full Adder](./generic_full_adder/generic_full_adder.vhd)
 - Generic multiplexers(behavioral):
   - [All](./generic_mux)
-  - [2-to-1 multiplexer](./generic_mux/mux21.vhd)
-  - [4-to-1 multiplexer](./generic_mux/mux41.vhd)
-  - [8-to-1 multiplexer](./generic_mux/mux81.vhd)
+  - [2-to-1 Multiplexer](./generic_mux/mux21.vhd)
+  - [4-to-1 Multiplexer](./generic_mux/mux41.vhd)
+  - [8-to-1 Multiplexer](./generic_mux/mux81.vhd)
 - Self package:
   - [All](./self_package)
   - [Package](./self_package/mam_package.vhd)
-  - [Full adder](./self_package/full_adder.vhd)
-  - [Generic adder-subtractor](./self_package/generic_adder_subtractor.vhd)
+  - [Full Adder](./self_package/full_adder.vhd)
+  - [Generic Adder-Subtractor](./self_package/generic_adder_subtractor.vhd)
 - Generic register(structural):
   - [All](./generic_register)
-  - [D latch](./generic_register/dlatch.vhd)
-  - [D flip flop](./generic_register/dff.vhd)
+  - [D Latch](./generic_register/dlatch.vhd)
+  - [D Flip Flop](./generic_register/dff.vhd)
   - [Register](./generic_register/reg.vhd)
   - [Generic register](./generic_register/nbit_register.vhd)
 - Real time OR(behavioral):
   - [Real Time OR](./Real_time_or/dlatch.vhd)
+- Shift register(behavioral):
+  - [All](./Shift_register)
+  - [D Flip Flop](./Shift_register/dff.vhd)
+  - [Shift Register](./Shift_register/shift_reg.vhd)
+  - [Test Bench](./Shift_register/shift_test.vhd)
 
 
