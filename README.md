@@ -21,14 +21,21 @@ This modules and projects were developed and tested using `Xilinx ISE Design Sui
   - [With](./full_adders/fa_WithSelect.vhd)
 - Four bit adder(structural):
   - [All](./four_bit_adder)
-  - [full adder](./four_bit_adder/full_adder.vhd)
-  - [four bit adder](./four_bit_adder/fourBit_adder.vhd)
-- generic full adder(structural):
+  - [Full adder](./four_bit_adder/full_adder.vhd)
+  - [Four bit adder](./four_bit_adder/fourBit_adder.vhd)
+- Generic full adder(structural):
   - [All](./generic_full_adder)
-  - [full adder](./generic_full_adder/full_adder.vhd)
-  - [generic full adder](./generic_full_adder/generic_full_adder.vhd)
-- generic multiplexers(behavioral):
+  - [Full adder](./generic_full_adder/full_adder.vhd)
+  - [Generic full adder](./generic_full_adder/generic_full_adder.vhd)
+- Generic multiplexers(behavioral):
   - [All](./generic_mux)
   - [2-to-1 multiplexer](./generic_mux/mux21.vhd)
   - [4-to-1 multiplexer](./generic_mux/mux41.vhd)
   - [8-to-1 multiplexer](./generic_mux/mux81.vhd)
+- Self package:
+  - [All](./self_package)
+  - [Package](./self_package/mam_package.vhd)
+  - [Full adder](./self_package/full_adder.vhd)
+  - [Generic adder-subtractor](./self_package/generic_adder_subtractor.vhd)
+
+
