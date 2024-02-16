@@ -43,5 +43,7 @@ This modules and projects were developed and tested using `Xilinx ISE Design Sui
   - [D flip flop](./generic_register/dff.vhd)
   - [Register](./generic_register/reg.vhd)
   - [Generic register](./generic_register/nbit_register.vhd)
+- Real time OR(behavioral):
+  - [Real Time OR](./Real_time_or/dlatch.vhd)
 
 
